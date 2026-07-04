@@ -106,7 +106,7 @@ curl --location 'https://us-east-1yzwnali2a.auth.us-east-1.amazoncognito.com/oau
 Importa:
 
 ```text
-events.postman_collection.json
+ae_puce_2026_1462_mateo_salazar.postman_collection
 ```
 
 Variables incluidas:
